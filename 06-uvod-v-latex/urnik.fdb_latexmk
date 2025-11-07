@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1762522650.64225 "c:/Users/mp71448/RP/racunalniski-praktikum/06-uvod-v-latex/urnik.tex" "urnik.pdf" "urnik" 1762522651.14865 0
+["pdflatex"] 1762523036.79397 "c:/Users/mp71448/RP/racunalniski-praktikum/06-uvod-v-latex/urnik.tex" "urnik.pdf" "urnik" 1762523037.33451 0
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -32,9 +32,9 @@
   "C:/Users/mp71448/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1762519674 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/mp71448/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1762518658 11548 5ccaae5324a8a9f7fe3426fa651b3740 ""
   "C:/Users/mp71448/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1762514821 13247234 96c162046c13c24830df55b1562771b2 ""
-  "c:/Users/mp71448/RP/racunalniski-praktikum/06-uvod-v-latex/urnik.tex" 1762522649 28822 24a98e048f2069ee67b1fde85e5d723a ""
-  "urnik.aux" 1762522651 1478 6ae3af121c46504838927a3d79731d0d "pdflatex"
-  "urnik.tex" 1762522649 28822 24a98e048f2069ee67b1fde85e5d723a ""
+  "c:/Users/mp71448/RP/racunalniski-praktikum/06-uvod-v-latex/urnik.tex" 1762523036 28858 8b5b6348f75ec45f120e2290c5e44ea7 ""
+  "urnik.aux" 1762523037 1478 6ae3af121c46504838927a3d79731d0d "pdflatex"
+  "urnik.tex" 1762523036 28858 8b5b6348f75ec45f120e2290c5e44ea7 ""
   (generated)
   "urnik.aux"
   "urnik.log"
